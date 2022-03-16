@@ -1,0 +1,7 @@
+{
+    "require": {
+        "warifp/nd-captcha": "^1.1",
+        "php-curl-class/php-curl-class": "^9.5",
+        "nesk/puphpeteer": "^2.0"
+    }
+}
