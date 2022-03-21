@@ -119,8 +119,8 @@ $recaptcha = new NdCaptcha(
 );
 
 $rewardUrls = [
-    'First ($5)' => 'https://www.agoda.com/app/agodacashcampaign?campaignToken=94e19cf56828527a714e36a3cc38826cbbee36b9&refreshOnBack&view=nativeapp',
-    'Second ($5)' => 'https://www.agoda.com/app/agodacashcampaign?campaignToken=4af9e40d70c640465b3e91ba39771377d3679264&refreshOnBack'
+    'First ($5)' => '',
+    'Second ($5)' => ''
 ];
 
 $file = file_get_contents('email.txt');
